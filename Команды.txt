@@ -1,0 +1,6 @@
+# Запуск виртуального окружения:
+C:\Users\aleks\Desktop\Программирование\Python\Python + Django - с нуля до коммерческих приложений [Udemy] [Рустам Камалов]\Use\5\venv\Scripts
+activate
+# Запуск отладочного сервера:
+C:\Users\aleks\Desktop\Программирование\Python\Python + Django - с нуля до коммерческих приложений [Udemy] [Рустам Камалов]\Use\5\landingpagewebsite_root
+python manage.py runserver
